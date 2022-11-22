@@ -1,5 +1,8 @@
 _repo: The-Babbington-case-Or-Nick-Carter-s-strange-quest_69263
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69263-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Nicholas (House name)
@@ -11,6 +14,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/1599
     - http://www.gutenberg.org/ebooks/author/2983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69263#The-Babbington-case-Or-Nick-Carter-s-strange-quest
 gutenberg_issued: '2022-10-30'
 identifiers:
   gutenberg: '69263'
